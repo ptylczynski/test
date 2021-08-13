@@ -1,3 +1,6 @@
 /GeneratorExecutor.py
 /main.py
 /Config.py
+venv/
+.idea/
+__pycache__/

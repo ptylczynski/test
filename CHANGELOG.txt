@@ -9,11 +9,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 <small>[Compare with latest](https://github.com/ptylczynski/test/compare/2c080d4d61a044e63d6c177bd40b4d4b9a0c59f0...HEAD)</small>
 
 ### Added
+- Add: gh ([839d984](https://github.com/ptylczynski/test/commit/839d9843691e98519da64e24d7be6bb20262c6b4) by ptylczynski).
 - Add: new file ([ec7bafa](https://github.com/ptylczynski/test/commit/ec7bafacdd1ab56ebc1c99010a279e17cc6815c1) by ptylczynski).
 - Add: changelog ([5a67537](https://github.com/ptylczynski/test/commit/5a67537bec0c90633d1c7a9d4543847284476899) by ptylczynski).
 - Add: sample ([2c080d4](https://github.com/ptylczynski/test/commit/2c080d4d61a044e63d6c177bd40b4d4b9a0c59f0) by ptylczynski).
 
 ### Changed
-- Changelog commit message ([77ddb78](https://github.com/ptylczynski/test/commit/77ddb78b18d923bfbc4651dc6d376237b7652e69) by ptylczynski).
+- Changelog commit message ([6074ef0](https://github.com/ptylczynski/test/commit/6074ef0d889bed4946e3a1b91502d337b7889064) by ptylczynski).
 
 

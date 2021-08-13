@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 <small>[Compare with latest](https://github.com/ptylczynski/test/compare/2c080d4d61a044e63d6c177bd40b4d4b9a0c59f0...HEAD)</small>
 
 ### Added
+- Add: some file ([4826b87](https://github.com/ptylczynski/test/commit/4826b871cd19db0893c08451f9e9c1ce0910c587) by Piotr Tylczyński).
 - Add: in new branch ([5b9c42c](https://github.com/ptylczynski/test/commit/5b9c42ca8ec64453fb2d08d80769b4d3c6daf72c) by Piotr Tylczyński).
 - Add: ffff ([fdbf4b3](https://github.com/ptylczynski/test/commit/fdbf4b3ddce669a28131a4d1fb5db5f55e9445f9) by Piotr Tylczyński).
 - Add: dddd ([a9eb076](https://github.com/ptylczynski/test/commit/a9eb076db3e8281438db647523e077fbb3d8aff4) by Piotr Tylczyński).
@@ -19,7 +20,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Add: sample ([2c080d4](https://github.com/ptylczynski/test/commit/2c080d4d61a044e63d6c177bd40b4d4b9a0c59f0) by ptylczynski).
 
 ### Changed
-- Changelog update ([7c26cc5](https://github.com/ptylczynski/test/commit/7c26cc5fdcb2b28fd77e3d4fd93434254f63bc27) by ptylczynski).
+- Changelog update ([39435e5](https://github.com/ptylczynski/test/commit/39435e5c47dc18d95aeec3fedbbac01c5a980d0b) by ptylczynski).
 - Changelog commit message ([9f2fcda](https://github.com/ptylczynski/test/commit/9f2fcda90a021936d4cf08f3e5136de5d014ed53) by ptylczynski).
 
 

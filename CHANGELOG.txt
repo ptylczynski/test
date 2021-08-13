@@ -13,6 +13,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Add: sample ([2c080d4](https://github.com/ptylczynski/test/commit/2c080d4d61a044e63d6c177bd40b4d4b9a0c59f0) by ptylczynski).
 
 ### Changed
-- Changelog commit message ([8e1b45a](https://github.com/ptylczynski/test/commit/8e1b45a61ee3d17915b77e0a8216c8c3a23b1fbc) by ptylczynski).
+- Changelog commit message ([00eab34](https://github.com/ptylczynski/test/commit/00eab341e8db1b40a50cedb6a4cef2c14afc2e76) by ptylczynski).
 
 

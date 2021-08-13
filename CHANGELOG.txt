@@ -6,10 +6,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## Unrealeased
 
-<small>[Compare with latest](https://gitlab.pcss.pl/dl-team/aggregation/test/compare/2c080d4d61a044e63d6c177bd40b4d4b9a0c59f0...HEAD)</small>
+<small>[Compare with latest](https://github.com/ptylczynski/test/compare/2c080d4d61a044e63d6c177bd40b4d4b9a0c59f0...HEAD)</small>
 
 ### Added
-- Add: changelog ([5a67537](https://gitlab.pcss.pl/dl-team/aggregation/test/commit/5a67537bec0c90633d1c7a9d4543847284476899) by ptylczynski).
-- Add: sample ([2c080d4](https://gitlab.pcss.pl/dl-team/aggregation/test/commit/2c080d4d61a044e63d6c177bd40b4d4b9a0c59f0) by ptylczynski).
+- Add: changelog ([5a67537](https://github.com/ptylczynski/test/commit/5a67537bec0c90633d1c7a9d4543847284476899) by ptylczynski).
+- Add: sample ([2c080d4](https://github.com/ptylczynski/test/commit/2c080d4d61a044e63d6c177bd40b4d4b9a0c59f0) by ptylczynski).
+
+### Changed
+- Changelog commit message ([8e1b45a](https://github.com/ptylczynski/test/commit/8e1b45a61ee3d17915b77e0a8216c8c3a23b1fbc) by ptylczynski).
 
 

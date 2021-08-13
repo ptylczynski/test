@@ -16,7 +16,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Add: sample ([2c080d4](https://github.com/ptylczynski/test/commit/2c080d4d61a044e63d6c177bd40b4d4b9a0c59f0) by ptylczynski).
 
 ### Changed
-- Changelog update ([adb69a0](https://github.com/ptylczynski/test/commit/adb69a029f4e4967c0909b8220af602bb765016f) by ptylczynski).
+- Changelog update ([e1b02d3](https://github.com/ptylczynski/test/commit/e1b02d34f444ab6b37a3053452ccd9ea4077cf62) by ptylczynski).
 - Changelog commit message ([9f2fcda](https://github.com/ptylczynski/test/commit/9f2fcda90a021936d4cf08f3e5136de5d014ed53) by ptylczynski).
 
 

@@ -1,19 +1,21 @@
 import socket
+from time import sleep
 
+import git
+
+import Config
 from GeneratorExecutor import GeneratorExecutor
 
 
 class AutoChangeLogServer:
     def __init__(self):
-        self.socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        self.socket.bind((socket.gethostname(), 6466))
-        self.socket.listen(5)
-
         while True:
-            (connected_socket, address) = self.socket.accept()
-            print('Connection from: ' + str(address[0]) + ':' + str(address[1]))
+            print("Pulling branch " + Config.BRANCH_TO_WATCH)
+            repo = git.Repo(Config.REPOSITORY_ROOT)
+            o = repo.remotes.origin
+            o.pull(Config.BRANCH_TO_WATCH)
             GeneratorExecutor().start()
-            connected_socket.close()
+            sleep(10)
 
 
 if __name__ == "__main__":

@@ -19,4 +19,4 @@ class GeneratorExecutor(Thread):
         repo.git.add(update=True)
         repo.index.commit('Changelog commit message')
         origin = repo.remote(name='origin')
-        origin.push()
+        origin.push('master')

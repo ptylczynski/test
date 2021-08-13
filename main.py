@@ -6,7 +6,7 @@ from GeneratorExecutor import GeneratorExecutor
 class AutoChangeLogServer:
     def __init__(self):
         self.socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        self.socket.bind((socket.gethostname(), 6465))
+        self.socket.bind((socket.gethostname(), 6466))
         self.socket.listen(5)
 
         while True:

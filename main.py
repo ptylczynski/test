@@ -1,6 +1,6 @@
 import socket
 
-from executor import Executor
+from GeneratorExecutor import GeneratorExecutor
 
 
 class AutoChangeLogServer:
@@ -12,7 +12,7 @@ class AutoChangeLogServer:
         while True:
             (connected_socket, address) = self.socket.accept()
             print('Connection from: ' + str(address[0]) + ':' + str(address[1]))
-            Executor().start()
+            GeneratorExecutor().start()
             connected_socket.close()
 
 

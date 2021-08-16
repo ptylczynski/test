@@ -20,7 +20,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Add: sample ([2c080d4](https://github.com/ptylczynski/test/commit/2c080d4d61a044e63d6c177bd40b4d4b9a0c59f0) by ptylczynski).
 
 ### Changed
-- Changelog update ([d1d8116](https://github.com/ptylczynski/test/commit/d1d8116b2791c4a45122bb1f1434696ca53e4363) by ptylczynski).
+- Changelog update ([b4cb8ba](https://github.com/ptylczynski/test/commit/b4cb8ba8a55f72e5bb33f5f4e05a30a0db66c48c) by ptylczynski).
 - Changelog commit message ([9f2fcda](https://github.com/ptylczynski/test/commit/9f2fcda90a021936d4cf08f3e5136de5d014ed53) by ptylczynski).
 
 ### Fixed

@@ -1,0 +1,30 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
+and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
+
+## Unrealeased
+
+<small>[Compare with latest](https://github.com/ptylczynski/test/compare/2c080d4d61a044e63d6c177bd40b4d4b9a0c59f0...HEAD)</small>
+
+### Added
+- Add test ([d487761](https://github.com/ptylczynski/test/commit/d4877611464c756245b9a01ead8c1a12722066a5) by Piotr Tylczyński).
+- Add: some file ([4826b87](https://github.com/ptylczynski/test/commit/4826b871cd19db0893c08451f9e9c1ce0910c587) by Piotr Tylczyński).
+- Add: in new branch ([5b9c42c](https://github.com/ptylczynski/test/commit/5b9c42ca8ec64453fb2d08d80769b4d3c6daf72c) by Piotr Tylczyński).
+- Add: ffff ([fdbf4b3](https://github.com/ptylczynski/test/commit/fdbf4b3ddce669a28131a4d1fb5db5f55e9445f9) by Piotr Tylczyński).
+- Add: dddd ([a9eb076](https://github.com/ptylczynski/test/commit/a9eb076db3e8281438db647523e077fbb3d8aff4) by Piotr Tylczyński).
+- Add: ds ([537c7fc](https://github.com/ptylczynski/test/commit/537c7fceb0741c41a55cc6c7dfb9c245ff82cbb3) by ptylczynski).
+- Add: gh ([839d984](https://github.com/ptylczynski/test/commit/839d9843691e98519da64e24d7be6bb20262c6b4) by ptylczynski).
+- Add: new file ([ec7bafa](https://github.com/ptylczynski/test/commit/ec7bafacdd1ab56ebc1c99010a279e17cc6815c1) by ptylczynski).
+- Add: changelog ([5a67537](https://github.com/ptylczynski/test/commit/5a67537bec0c90633d1c7a9d4543847284476899) by ptylczynski).
+- Add: sample ([2c080d4](https://github.com/ptylczynski/test/commit/2c080d4d61a044e63d6c177bd40b4d4b9a0c59f0) by ptylczynski).
+
+### Changed
+- Changelog update ([3a1f02a](https://github.com/ptylczynski/test/commit/3a1f02ab750b2dbb1c12f9c61e898aa814177ce9) by root).
+- Changelog commit message ([9f2fcda](https://github.com/ptylczynski/test/commit/9f2fcda90a021936d4cf08f3e5136de5d014ed53) by ptylczynski).
+
+### Fixed
+- Fix: error ([7262ed5](https://github.com/ptylczynski/test/commit/7262ed5cb2bf688e288ba0fac3d4887763aad18e) by Piotr Tylczyński).
+
+
